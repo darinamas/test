@@ -33,5 +33,8 @@ class ViewController: UIViewController {
     func func5() {
         print("func2")
     }
+    func func6() {
+        print("func2")
+    }
 }
 
