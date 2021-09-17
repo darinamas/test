@@ -21,5 +21,9 @@ class ViewController: UIViewController {
     func func2() {
         print("func2")
     }
+    
+    func func3() {
+        print("func2")
+    }
 }
 
