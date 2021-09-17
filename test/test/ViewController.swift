@@ -17,5 +17,9 @@ class ViewController: UIViewController {
     func func1() {
         print("func1")
     }
+    
+    func func2() {
+        print("func2")
+    }
 }
 
